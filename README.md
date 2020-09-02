@@ -18,4 +18,4 @@ For WebPlatformTests, we use this script to download and install Edge: https://g
 
  
 
-And they use this to download Edge driver: https://github.com/web-platform-tests/wpt/blob/4398d74fea97068f29499dcd1c6d6d6b268b9940/tools/wpt/browser.py (line 1016).
+And then use this to download Edge driver: https://github.com/web-platform-tests/wpt/blob/4398d74fea97068f29499dcd1c6d6d6b268b9940/tools/wpt/browser.py (line 1016).
