@@ -1,5 +1,5 @@
-# RunEdgeAutomation
-Setting up the automation environment
+# Run Microsoft Edge Automation
+Getting the lastest Edge and the latest MSEdgeDriver
 
 
 We have these files that list the latest WebDriver binary version of each Edge channel that you can download from that site:
